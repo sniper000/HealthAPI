@@ -268,3 +268,4 @@
 /Users/benjaminlui/comp4976/HealthAPI/obj/Debug/net6.0/HealthAPI.pdb
 /Users/benjaminlui/comp4976/HealthAPI/obj/Debug/net6.0/HealthAPI.genruntimeconfig.cache
 /Users/benjaminlui/comp4976/HealthAPI/obj/Debug/net6.0/ref/HealthAPI.dll
+/Users/benjaminlui/comp4976/HealthAPI/bin/Debug/net6.0/HealthAPI.staticwebassets.runtime.json

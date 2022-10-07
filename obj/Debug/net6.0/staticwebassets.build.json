@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "hnrBECjansI/eziboorBaDmpSU5MV/sqI0IYuYaJQJM=",
+  "Hash": "vkatUVrnKPBuLXtw3fXCWEMSjy+wjd942UAVYc1fn64=",
   "Source": "HealthAPI",
   "BasePath": "_content/HealthAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "HealthAPI/wwwroot",
+      "Source": "HealthAPI",
+      "ContentRoot": "/Users/benjaminlui/comp4976/HealthAPI/wwwroot/",
+      "BasePath": "_content/HealthAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/benjaminlui/comp4976/HealthAPI/wwwroot/index.html",
+      "SourceId": "HealthAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/benjaminlui/comp4976/HealthAPI/wwwroot/",
+      "BasePath": "_content/HealthAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
 }
